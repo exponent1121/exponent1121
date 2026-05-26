@@ -47,7 +47,7 @@
 * **요약:** 적외선 센서 데이터를 기반으로 주행 경로를 추적하는 라인트레이서 개발.
 * **상세 역할:**
   * IR 센서 피드백을 활용한 DC 모터 방향 및 속도 제어 알고리즘 구현.
-* **Github:** [라인트레이서 제어 코드]
+* **Github:** [라인트레이서 제어 코드](https://github.com/exponent1121/arduino-line-tracer)
 * **시연 영상:** [주행 테스트 영상]
 https://github.com/user-attachments/assets/b2f551b6-515d-4947-b27c-dbb5ee2347b2
 
