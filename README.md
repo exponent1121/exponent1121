@@ -50,5 +50,8 @@
 * **Github:** [라인트레이서 제어 코드]
 * **시연 영상:** [주행 테스트 영상]
 
+https://github.com/user-attachments/assets/b2f551b6-515d-4947-b27c-dbb5ee2347b2
+
+
 
 
