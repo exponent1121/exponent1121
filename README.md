@@ -49,7 +49,7 @@
   * IR 센서 피드백을 활용한 DC 모터 방향 및 속도 제어 알고리즘 구현.
 * **Github:** [라인트레이서 제어 코드]()
 * **시연 영상:** [주행 테스트 영상]
-  <img width="400" height="711" alt="라인트레이서 작동 영상(압축본)" src="https://github.com/user-attachments/assets/b734ce35-29a2-4d26-966e-bbf26f433988" />
+  ![라인트레이서 작동 영상](https://github.com/user-attachments/assets/b734ce35-29a2-4d26-966e-bbf26f433988)
 
 
 
