@@ -40,7 +40,7 @@
 * **상세 역할:**
   * **[Arduino]** GPIO 통신 메커니즘을 이해하고, 초음파 센서(거리 측정) 및 L293D 모터 드라이버를 활용한 DC 모터 속도/방향 제어(PWM) 실습.
   * **[Raspberry Pi]**
-  * - 입력(버튼)과 출력(LED, TM1637)을 통합한 타이머 로직, 하드웨어 자원 예외 처리(Try-Finally) 훈련.
+    - 입력(버튼)과 출력(LED, TM1637)을 통합한 타이머 로직, 하드웨어 자원 예외 처리(Try-Finally) 훈련.
     - I2C 통신(SHTC3, OLED), Telegram API 알림 파이프라인, rpicam 연동 실시간 웹 스트리밍 등 외부 인터페이스 연동 실습.
     - **Github:** [라즈베리파이 실습 코드](https://github.com/exponent1121/raspberrypi-practice)
 
