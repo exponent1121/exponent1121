@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:7FFFD4&height=200&section=header&text=exponent1121&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ABAB5&center=true&vCenter=true&width=850&height=50&lines=👋+Hello,+I'm+Lim+jisoo%2FHyunjae;Aspiring+System+Engineer+%7C+HW%2FSW+Integration+%26+Dynamic+Physical+Control" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ABAB5&center=true&vCenter=true&width=850&height=50&lines=👋+Hello,+I'm+Lim+jisoo%2FHyunjae;Aspiring+System+Engineer+%7C+HW%2FSW+Integration+%26+Dynamic+Physical+Control)
 
 ## 👋 Hello, I'm Lim jisoo/Hyunjae
 **Aspiring System Engineer | HW/SW Integration & Dynamic Physical Control**
