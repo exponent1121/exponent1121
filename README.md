@@ -3,6 +3,8 @@
 
 소프트웨어의 논리가 현실의 하드웨어를 통제하고 움직이게 만드는 **'동적 물리 제어(Dynamic Physical Control)'** 시스템 구축에 몰입하고 있습니다. 
 
+---
+
 ### 📬 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js031121@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jisoo-lim-78b251412/))
