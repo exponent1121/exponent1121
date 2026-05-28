@@ -56,6 +56,16 @@ CSE @ Chung-Ang University '24
 * **Summary:** 적외선(IR) 센서 피드백 데이터를 기반으로 주행 경로를 추적하는 알고리즘 및 DC 모터 제어 구현.
 * 🔗 [라인트레이서 제어 코드 Repository](https://github.com/exponent1121/arduino-line-tracer) | 🎥 [주행 테스트 영상](https://github.com/user-attachments/assets/a88eca82-bc36-4d0d-b38e-b1eb2952a67d)
 
+#### 🎬 순수 NumPy 기반 영화 추천 시스템 구현 (2026.05)
+* **Tech:** `Python`, `NumPy`, `argparse`
+* **Summary:** 외부 딥러닝 프레임워크 없이 순수 선형대수 수식과 NumPy만을 활용하여 유저-아이템 협업 필터링(Biased Matrix Factorization) 알고리즘을 바닥부터 직접 구현 및 최적화.
+* **Role:**
+  * **[Algorithm Design]** Global, User, Item Bias 및 Latent Factor 행렬 분해 수식을 정의하고, 예측 평점 오버슈팅 방지를 위한 후처리(np.clip) 파이프라인 설계.
+  * **[Optimization]** L2 Regularization 패널티 항을 포함한 손실 함수 유도 및 확률적 경사 하강법(SGD)을 적용하여 파라미터 실시간 가중치 업데이트 로직 구현.
+  * **[Robustness & Handling]** 미인지 데이터 입력 시 인덱스 범위 조건 검사를 통해 유연하게 대응하는 강력한 Cold-Start 예외 처리 분기 구조 설계.
+  * **[Evaluation]** MovieLens-100k 데이터셋 기반의 5-Fold 교차 검증 환경을 구축하고, 하이퍼파라미터 튜닝을 통해 목표 베이스라인인 평균 RMSE 0.9130 돌파(최종 0.912738 달성).
+* 🔗 [영화 추천 시스템 Repository](https://github.com/exponent1121/MovieLens-Matrix-Factorization)
+
 ---
 
 ### 🔥 Currently Working On (진행 중인 프로젝트)
