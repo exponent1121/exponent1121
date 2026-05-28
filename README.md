@@ -66,7 +66,7 @@ CSE @ Chung-Ang University '24
   * **[Optimization]** L2 Regularization 패널티 항을 포함한 손실 함수 유도 및 확률적 경사 하강법(SGD)을 적용하여 파라미터 실시간 가중치 업데이트 로직 구현.
   * **[Robustness & Handling]** 미인지 데이터 입력 시 인덱스 범위 조건 검사를 통해 유연하게 대응하는 강력한 Cold-Start 예외 처리 분기 구조 설계.
   * **[Evaluation]** MovieLens-100k 데이터셋 기반의 5-Fold 교차 검증 환경을 구축하고, 하이퍼파라미터 튜닝을 통해 목표 베이스라인인 평균 RMSE 0.9130 돌파(최종 0.912738 달성).
-* 🔗 [영화 추천 시스템 Repository](https://github.com/exponent1121/MovieLens-Matrix-Factorization)
+* 🔗 [영화 평점 예측 기반 추천 시스템 Repository](https://github.com/exponent1121/MovieLens-Matrix-Factorization)
 
 ---
 
