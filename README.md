@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:7FFFD4&height=200&section=header&text=exponent1121&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ABAB5&center=true&vCenter=true&width=850&height=50&lines=👋+Hello,+I'm+Lim+jisoo%2FHyunjae;Aspiring+System+Engineer)
+
 
 ## 👋 Hello, I'm Lim jisoo/Hyunjae
 **Aspiring System Engineer | HW/SW Integration & Dynamic Physical Control**
@@ -72,3 +72,6 @@
 * **Arduino:** GPIO 통신 메커니즘 이해, 초음파 센서 및 L293D 기반 DC 모터 PWM 제어.
 * **Raspberry Pi:** 이벤트 기반 타이머 로직 설계, I2C 통신(SHTC3, OLED), Telegram API 파이프라인 및 rpicam 실시간 웹 스트리밍 연동.
 * 🔗 [라즈베리파이 실습 코드 Repository](https://github.com/exponent1121/raspberrypi-practice)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,100:7FFFD4&height=120&section=footer" />
