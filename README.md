@@ -20,8 +20,9 @@ CSE @ Chung-Ang University '24
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![argparse](https://img.shields.io/badge/argparse-4D4D4D?style=for-the-badge&logo=python&logoColor=white)
 
 **Hardware & Embedded** <br>
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -56,7 +57,7 @@ CSE @ Chung-Ang University '24
 * **Summary:** 적외선(IR) 센서 피드백 데이터를 기반으로 주행 경로를 추적하는 알고리즘 및 DC 모터 제어 구현.
 * 🔗 [라인트레이서 제어 코드 Repository](https://github.com/exponent1121/arduino-line-tracer) | 🎥 [주행 테스트 영상](https://github.com/user-attachments/assets/a88eca82-bc36-4d0d-b38e-b1eb2952a67d)
 
-#### 🎬 순수 NumPy 기반 영화 추천 시스템 구현 (2026.05)
+#### 🎬 순수 NumPy 영화 평점 예측 기반 추천 시스템 (2026.05)
 * **Tech:** `Python`, `NumPy`, `argparse`
 * **Summary:** 외부 딥러닝 프레임워크 없이 순수 선형대수 수식과 NumPy만을 활용하여 유저-아이템 협업 필터링(Biased Matrix Factorization) 알고리즘을 바닥부터 직접 구현 및 최적화.
 * **Role:**
