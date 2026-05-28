@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0ABAB5&height=250&section=header&text=System%20Engineer&fontSize=70&fontAlignY=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0ABAB5,A8E6CF&height=250&section=header&text=System%20Engineer&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ABAB5&center=true&vCenter=true&width=500&height=50&lines=Aspiring+System+Engineer;HW%2FSW+Integration;Dynamic+Physical+Control)](https://git.io/typing-svg)
 
