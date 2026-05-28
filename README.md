@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:7FFFD4&height=200&section=header&text=exponent1121&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello,+I'm+Lim+jisoo%2FHyunjae;Aspiring+System+Engineer)](https://git.io/typing-svg)
 ## 👋 Hello, I'm Lim jisoo/Hyunjae
 **Aspiring System Engineer | HW/SW Integration & Dynamic Physical Control**
 
