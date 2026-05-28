@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:7FFFD4&height=200&section=header&text=exponent1121&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,50:008B8B&height=200&section=header&text=exponent1121&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
 
 
 ## 👋 Hello, I'm Lim jisoo/Hyunjae
@@ -74,4 +74,4 @@
 * 🔗 [라즈베리파이 실습 코드 Repository](https://github.com/exponent1121/raspberrypi-practice)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,100:7FFFD4&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,100:008B8B&height=120&section=footer" />
