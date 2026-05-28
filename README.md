@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008B8B,50:0ABAB5&height=200&section=header&text=Jisoo+Lim&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=18&descColor=ffffff&descAlignY=50&fontAlignY=30&animation=twinkling" />
 
-
 ## 👩🏻‍💻 Jisoo Lim/Hyunjae
 **Aspiring System Engineer | HW/SW Integration & Dynamic Physical Control**
 
