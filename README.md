@@ -4,7 +4,8 @@
 **Aspiring System Engineer | HW/SW Integration & Dynamic Physical Control** <br>
 CSE @ Chung-Ang University '24
 
-소프트웨어의 논리가 현실의 하드웨어를 통제하고 움직이게 만드는 **동적 물리 제어(Dynamic Physical Control)** 시스템 구축에 몰입하고 있습니다. 
+소프트웨어의 논리가 현실의 하드웨어를 통제하고 움직이게 만드는 <br>
+**동적 물리 제어(Dynamic Physical Control)** 시스템 구축에 몰입하고 있습니다. 
 
 ---
 
