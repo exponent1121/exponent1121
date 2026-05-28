@@ -28,16 +28,16 @@ CSE @ Chung-Ang University '24
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-032347?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 **Tools & Vision** <br>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-F37021?style=for-the-badge&logo=autodesk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F37021?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
@@ -50,12 +50,12 @@ CSE @ Chung-Ang University '24
   * **[Hardware & Setup]** 로봇팔 키트 조립, 기초 3D CAD 모델링(Fusion 360)을 통한 물리적 제약사항 분석 및 ESP32 구동 환경 구성.
   * **[Actuator Control]** Thonny IDE를 활용한 서보모터 구동 및 관절 각도 제어 구현.
   * **[Vision & Dynamic Motion]** OpenCV를 이용한 실시간 객체 탐지 수행 및 타겟 좌표를 ESP32로 전송하여 추적하는 동적 피드백 시스템 구축.
-* 🔗 [로봇팔 제어 Repository](https://github.com/exponent1121/robotarm-control)
+* 🔗 [로봇팔 제어 Repository](https://github.com/exponent1121/robotarm-control) <br><br>
 
 #### 🏎️ 아두이노 기반 라인트레이서 제어 (2026.04)
 * **Tech:** `Arduino`, `C++`
 * **Summary:** 적외선(IR) 센서 피드백 데이터를 기반으로 주행 경로를 추적하는 알고리즘 및 DC 모터 제어 구현.
-* 🔗 [라인트레이서 제어 코드 Repository](https://github.com/exponent1121/arduino-line-tracer) | 🎥 [주행 테스트 영상](https://github.com/user-attachments/assets/a88eca82-bc36-4d0d-b38e-b1eb2952a67d)
+* 🔗 [라인트레이서 제어 코드 Repository](https://github.com/exponent1121/arduino-line-tracer) | 🎥 [주행 테스트 영상](https://github.com/user-attachments/assets/a88eca82-bc36-4d0d-b38e-b1eb2952a67d) <br><br>
 
 #### 🎬 순수 NumPy 영화 평점 예측 기반 추천 시스템 (2026.05)
 * **Tech:** `Python`, `NumPy`, `argparse`
