@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008B8B,50:0ABAB5&height=200&section=header&text=exponent1121&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008B8B,50:0ABAB5&height=200&section=header&text=Lim Jisoo&desc=System%20Engineer&fontSize=40&fontColor=ffffff&descSize=20&descColor=ffffff&descAlignY=50&fontAlignY=30" />
 
 
 ## 👋 Hello, I'm Lim jisoo/Hyunjae
